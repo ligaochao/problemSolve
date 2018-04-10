@@ -1,0 +1,12 @@
+首先，不能删除或者篡改原来的python2，因为这样的话yum，就无法使用
+
+第一：安装python3
+
+https://www.cnblogs.com/rookie404/p/6142151.html
+
+在安装之前，最好先把这两个安装了
+https://blog.csdn.net/yabingshi_tech/article/details/50439142
+否则后面pip3的安装会报错的
+
+这里是pip3的安装教程，需要注意，其中有一点小错误，cd 一个文件，找找看
+https://www.cnblogs.com/wenchengxiaopenyou/p/5709218.html
